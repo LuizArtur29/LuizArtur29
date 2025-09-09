@@ -8,8 +8,8 @@
 ---
 
 ### 👨‍💻 Sobre Mim:
-- 🔭 Atualmente estou trabalhando em **API robusta para compra de ingressos de cinema.**.
-- 🌱 Estou aprendendo **React**.
+- 🔭 Atualmente estou trabalhando em **API robusta para compra de ingressos de cinema.**
+- 🌱 Estou aprendendo **React**
 - 📫 Como me encontrar: **luiz.artur.coder@gmail.com**
 
 ---
@@ -43,6 +43,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
 </p>
+
 ---
 
 ### 📊 Minhas Estatísticas do GitHub:
