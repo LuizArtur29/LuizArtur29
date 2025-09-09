@@ -46,11 +46,11 @@
 ### 📊 Minhas Estatísticas do GitHub:
 <p align="center">
   <a href="https://github.com/LuizArtur29">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME-AQUI&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizArtur29&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizArtur29&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU-USERNAME-AQUI&style=flat-square&color=blue" alt="Contador de visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=LuizArtur29&style=flat-square&color=blue" alt="Contador de visitas"/>
 </p>
