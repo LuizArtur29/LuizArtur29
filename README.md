@@ -9,7 +9,7 @@
 
 ### 👨‍💻 Sobre Mim:
 - 🔭 Atualmente estou trabalhando em **Uma rede social para fãs de NFL.**
-- 🌱 Estou aprendendo **React**
+- 🌱 Estou aprendendo **React e Spring boot**
 - 📫 Como me encontrar: **luiz.artur.coder@gmail.com**
 
 ---
