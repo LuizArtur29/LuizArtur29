@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 Sobre Mim:
-- 🔭 Atualmente estou trabalhando em **API robusta para compra de ingressos de cinema.**
+- 🔭 Atualmente estou trabalhando em **Uma rede social para fãs de NFL.**
 - 🌱 Estou aprendendo **React**
 - 📫 Como me encontrar: **luiz.artur.coder@gmail.com**
 
