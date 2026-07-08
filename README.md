@@ -2,7 +2,7 @@
   
   # Olá, eu sou o Luiz Artur! 👋
 
-  **Desenvolvedor Backend (Java / Spring Boot)**
+  **Software Engineer | Backend & DevOps Infrastructure**
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-artur/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiz_arthur29/)
