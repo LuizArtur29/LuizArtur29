@@ -1,80 +1,38 @@
-<p align="center">
-  <img src="https://github.com/LuizArtur29/LuizArtur29/blob/main/Animao-ezgif.com-optimize.gif" alt="Banner animado com meu nome e especialidade"/>
-</p>
-
-<h1 align="center">Olá 👋, eu sou o Luiz Artur!</h1>
-<h3 align="center">Desenvolvedor focado em Backend (Java/Spring Boot)</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/luiz-artur/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.instagram.com/luiz_arthur29" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:luiz.artur.coder@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</p>
-
----
-
-### 👨‍💻 Sobre Mim
-
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no IFPB.
-- 💻 Foco principal no desenvolvimento **Backend** utilizando **Java e Spring Boot**.
-- 📱 Experiência na construção de aplicações e ecossistemas utilizando **React, React Native e TypeScript**.
-- 🏈 Atualmente desenvolvendo uma **rede social dedicada a fãs da NFL**.
-- 🚀 Apaixonado por criar soluções tecnológicas eficientes, desde sistemas de gestão até plataformas digitais escaláveis.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-**Backend & Linguagens**  
-<p align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-</p>
-
-**Frontend & Mobile**  
-<p align="left">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
-
-**Banco de Dados, Cache & Storage**  
-<p align="left">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MinIO-%23C7202C.svg?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" />
-</p>
-
-**DevOps & Infraestrutura**  
-<p align="left">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
----
-
-### 📊 Estatísticas do GitHub
-
 <div align="center">
-  <a href="https://github.com/LuizArtur29">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizArtur29&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/LuizArtur29">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizArtur29&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
-  </a>
+  
+  # Olá, eu sou o Luiz Artur! 👋
+
+  **Desenvolvedor Backend (Java / Spring Boot)**
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](SEU_INSTAGRAM)
+  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
 </div>
 
-<br>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LuizArtur29&style=flat-square&color=blue" alt="Contador de visitas" />
-</p>
+### 👤 Sobre Mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas com sólida base em engenharia Backend (**Java** e **Spring Boot**), focando minha evolução de carreira em **DevOps**. Busco alinhar o desenvolvimento de código limpo e seguro a uma infraestrutura automatizada, resiliente e escalável.
+
+---
+
+### 🚀 Projeto em Destaque: [devops-playground](https://github.com/LuizArtur29/devops-playground)
+
+Uma plataforma de gerenciamento de chamados (Help Desk) desenvolvida em Java 21, projetada para servir como um **laboratório de simulação de ambiente produtivo real**. O foco do projeto está na engenharia e automação de toda a infraestrutura ao redor da aplicação:
+
+* **Arquitetura & Mensageria:** Integração robusta com PostgreSQL, Redis (cache), RabbitMQ (mensageria), MinIO (object storage) e Keycloak (identidade).
+* **Containers & Orquestração:** Criação de Dockerfiles seguros e otimizados (Multi-stage, Distroless, diretiva `USER`), evoluindo para gerenciamento de clusters locais com **Kubernetes** e **Helm Charts**.
+* **CI/CD & DevSecOps:** Esteiras via GitHub Actions integrando linters de infraestrutura (Hadolint/actionlint), análise de código (SonarQube), segurança de contêineres (Trivy) e testes automatizados efêmeros com **Testcontainers**.
+* **GitOps & IaC:** Provisionamento automatizado de infraestrutura na nuvem via **Terraform** e automação de deploys contínuos com **ArgoCD**.
+* **Observabilidade Avançada:** Monitoramento completo de métricas, telemetria (OpenTelemetry) e logs centralizados utilizando a stack **Prometheus, Grafana e Loki**.
+
+
+### 🛠️ Tecnologias & Ferramentas
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Backend & Linguagens** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Frontend & Mobile** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| **Dados & Cache** | ![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=flat-square&logo=postgresql&logoColor=white)  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-C72C48?style=flat-square&logo=minio&logoColor=white) |
+| **DevOps & Infra** | ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
